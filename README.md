@@ -2,9 +2,9 @@
 
 - 📖 I'm an Electrical Engineering Student at the National University of Science and Technology (NUST), Pakistan.
 
-  <img src="github.png" alt="GitHub Screenshot" width="100%">
+  <img src="github_img.png" alt="GitHub Screenshot" width="100%">
 
-- ⚡ Passionate about building intelligent systems specifically with Applied AI in the subfield of smart systems, edgeAI, robotics and autonomous vehicles.ヾ(≧ ▽ ≦)ゝ
+- ⚡ Passionate about building intelligent systems specifically in Physical AI in the subfield of edgeAI, robotics, autonomous vehicles, Deep Neural Network Accelerator Designs (AI Hardware Accelerator Design in Chip Design Company)ヾ(≧ ▽ ≦)ゝ
   
 - ✨ Leveraging my research and expertise, I am dedicated to fostering innovation and enhancing global connectivity (●'◡'●)
   

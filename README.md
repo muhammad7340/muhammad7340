@@ -4,7 +4,7 @@
 
   <img src="github_img.png" alt="GitHub Screenshot" width="100%">
 
-- ⚡ Passionate about building intelligent systems specifically in Physical AI in the subfield of edgeAI, robotics, autonomous vehicles, Deep Neural Network Accelerator Designs (AI Hardware Accelerator Design in Chip Design Company)ヾ(≧ ▽ ≦)ゝ
+- ⚡ Passionate about building intelligent systems specifically in Physical AI in the subfield of edgeAI, robotics, autonomous vehicles, Deep Neural Network Accelerator Designs (AI Hardware Accelerator Design in Chip Design Domain), Hardware Software CoDesign and CoSimヾ(≧ ▽ ≦)ゝ
   
 - ✨ Leveraging my research and expertise, I am dedicated to fostering innovation and enhancing global connectivity (●'◡'●)
   
